@@ -33,3 +33,6 @@
 
 # Visual Studio Directory
 .vs/
+
+# Build directory
+build/
